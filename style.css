@@ -1,0 +1,38 @@
+table{
+    font-family: Helvetica,sans-serif;
+    border-collapse: collapse;
+    border-width: 5px;
+    border-style: double;
+    border-color: purple;
+    background-color: mediumpurple;
+    margin-left:300px ;
+    width: 900px;
+    }
+th{
+    font-weight: 800;
+    background-color: palevioletred;
+    color:  #ffffff;
+}
+td{
+    font-size: 17px;
+    color: black;
+}
+td:hover{
+    font-size: 30px;
+    color: papayawhip;
+}
+tr:hover{
+    color: aquamarine;
+}
+h2{
+    font-family:Impact,fantasy;
+    text-align: center;
+    font-size: 35px;
+    color: purple;
+    font-style: italic;
+    background-color: lightpink;
+      
+}
+body {
+ background-color: #cccccc;
+}
